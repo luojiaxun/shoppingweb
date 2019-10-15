@@ -1,0 +1,15 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<div align="center"> 
+  <Font color=red><H3>“天狗”后台管理系统</H3></Font>
+  <table  cellSpacing="1" cellPadding="1" width="660" align="center" border="0">
+   <tr valign="bottom">
+   <td><A href="managergoods.jsp">商品管理</A></td>
+   <td><A href="managerorder.jsp">订单管理</A></td>
+   <td><A href="managervariety.jsp">分类管理</A></td>
+   <td><A href="countServlet">统计汇总</A></td>
+   <td><A href="index.jsp">主页</A></td>
+  </tr>
+</table>
+</div>
+ 

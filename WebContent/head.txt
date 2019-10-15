@@ -1,0 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<div align="center"> 
+  <Font color=red><H3>“天狗”购物网站</H3></Font>
+  <table  cellSpacing="1" cellPadding="1" width="660" align="center" border="0">
+   <tr valign="bottom">
+   <td><A href="register.jsp">注册</font></A></td>
+   <td><A href="login.jsp">登录</A></td>
+   <td><A href="lookgoods.jsp">浏览商品</A></td>
+   <td><A href="searchgoods.jsp">查询商品</A></td>
+   <td><A href="lookcar.jsp">查看购物车</A></td>
+   <td><A href="lookorder.jsp">查看订单</A></td>
+   <td><A href="exitServlet">退出</A></td>
+   <td><A href="index.jsp">主页</A></td>
+  </tr>
+</table>
+</div>
+ 
